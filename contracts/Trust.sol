@@ -81,8 +81,9 @@ contract Trust {
     _;
   }
 
-
-  function deposit() payable public {}
+  function deposit() payable public {
+  
+  }
 
   function () public {}
 }
